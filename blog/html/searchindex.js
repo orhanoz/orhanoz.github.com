@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["2017/05/13/first_try","master","pages/about"],envversion:50,filenames:["2017/05/13/first_try.rst","master.rst","pages/about.rst"],objects:{},objnames:{},objtypes:{},terms:{"try":1,about:1,first:1},titles:["First try...","Sitemap","About"],titleterms:{"try":0,about:2,first:0,sitemap:1}})
