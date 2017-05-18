@@ -13,7 +13,7 @@ import tinkerer.paths
 project = 'Ma Blog'
 
 # Change this to the tagline of your blog
-tagline = 'I have ant in my eyes'
+tagline = 'Ants in my eyes'
 
 # Change this to the description of your blog
 description = 'Some stuff'
@@ -38,7 +38,7 @@ disqus_shortname = None
 html_favicon = '_static/tinkerer.ico'
 
 # Pick another Tinkerer theme or use your own
-html_theme = 'flat'
+html_theme = 'dark'
 
 # Theme-specific options, see docs
 html_theme_options = {}
